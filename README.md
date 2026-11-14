@@ -2,8 +2,6 @@
 
 **Undergraduate IT Student (`Sinh viên CNTT`)** • Vietnam • [hieukien2k6@gmail.com](mailto:hieukien2k6@gmail.com)
 
-Focused on **Automation (`Tự động hoá`)**, **AI Research (`Nghiên cứu AI`)**, and **Applied AI Products (`Ứng dụng AI tạo sản phẩm`)** — building web backends, data-integrity workflows, and human-in-the-loop AI applications.
-
 ---
 
 ## Featured Public Projects
