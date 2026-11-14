@@ -1,6 +1,6 @@
 # Hi, I'm Vũ Hiếu Kiên
 
-**Full-Stack & AI Systems Engineer** • Vietnam • [qtu1053@gmail.com](mailto:qtu1053@gmail.com)
+**Full-Stack & AI Systems Engineer** • Vietnam • [hieukien2k6@gmail.com](mailto:hieukien2k6@gmail.com)
 
 I build production web platforms, guardrailed AI pipelines, cloud-edge systems (Cloudflare Workers/D1/R2, Docker, VPS), and native Windows desktop automation (Rust/Tauri, .NET 10 WPF/UIA3).
 
